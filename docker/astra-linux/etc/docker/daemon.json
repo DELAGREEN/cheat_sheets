@@ -1,0 +1,6 @@
+{
+    "astra-sec-level": 6,
+    "bip": "10.20.0.1/24",
+    "default-addres-pools": [{"base": "10.0.0.0/16", "size": 24}],
+    "registry-mirrors": ["http://example.com"]
+}
